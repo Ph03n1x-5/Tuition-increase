@@ -1,0 +1,29 @@
+What is the amount of the starting tuition [Decimals may be entered, 5000.75, 8000.00 etc]?
+8000
+What is the percentage of increase [enter in decimal format such as (for 3$, Type 0.09), (5%, Type 0.05) etc.]?
+0.03
+How many years are you projecting the tuition increase? [Enter whole numbers only]
+15
+===================================================================
+PROJECTED TUITIONS (PER SEMESTER FOR FULL-TIME STUDENTS)
+===================================================================
+YEAR         PROJECTED TUITION
+===================================================================
+Year 1 :            $8240.00
+Year 2 :            $8487.20
+Year 3 :            $8741.82
+Year 4 :            $9004.07
+Year 5 :            $9274.19
+Year 6 :            $9552.42
+Year 7 :            $9838.99
+Year 8 :            $10134.16
+Year 9 :            $10438.19
+Year 10 :            $10751.33
+Year 11 :            $11073.87
+Year 12 :            $11406.09
+Year 13 :            $11748.27
+Year 14 :            $12100.72
+Year 15 :            $12463.74
+===================================================================
+THESE PROJECTIONS REFLECT A 3.0 % ANNUAL INCREASE
+===================================================================
